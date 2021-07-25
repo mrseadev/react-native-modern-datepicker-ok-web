@@ -1,5 +1,5 @@
 # React Native Modern Datepicker 📆
-## choose date: compatible web browser
+## choose date: compatible to web browser
 ## modify by MrSeaDev: add choose the hour or minute(Scrollview)
 
 A customizable calendar, time & month picker for React Native (including Persian Jalaali calendar & locale). For more information, please visit [website](https://hosseinshabani.github.io/react-native-modern-datepicker)
